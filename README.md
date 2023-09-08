@@ -63,8 +63,7 @@ Plot the results as a bar chart.
 About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 Visually estimate the result by plotting the daily minimum temperature.
- ![Mars_Year](https://github.com/rodneaa/Mars_Data_Challenge/assets/136031276/5f50cc12-50a2-4a6e-bc6e-53f472add224)
-
+![Mars_Year](https://github.com/rodneaa/Mars_Data_Challenge/assets/136031276/62d496a6-c236-4a54-9ab3-9c247e7ff7ee)
 
 The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
 Export the DataFrame to a CSV file.
