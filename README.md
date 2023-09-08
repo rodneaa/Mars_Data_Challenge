@@ -3,12 +3,12 @@ Module 11 Homework
 
 
 Instructions
-Part 1: Scrape Titles and Preview Text from Mars News
+## Part 1: Scrape Titles and Preview Text from Mars News
 Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipynb. You will work in this code as you follow the steps below to scrape the Mars News website.
 
 Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
 
-HINT
+
 Create a Beautiful Soup object and use it to extract text elements from the website.
 
 Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
@@ -23,7 +23,7 @@ Print the list in your notebook.
 
 Optionally, store the scraped data in a file (to ease sharing the data with others). To do so, export the scraped data to a JSON file. (Note: there will be no extra points for completing this.)
 
-Part 2: Scrape and Analyze Mars Weather Data
+## Part 2: Scrape and Analyze Mars Weather Data
 Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.
 
 Use automated browsing to visit the Mars Temperature Data SiteLinks to an external site.. Inspect the page to identify which elements to scrape. Note that the URL is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
@@ -63,7 +63,8 @@ Plot the results as a bar chart.
 About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 Visually estimate the result by plotting the daily minimum temperature.
-![Mars_Year](https://github.com/rodneaa/Mars_Data_Challenge/assets/136031276/73a5df9f-dc1a-4206-807b-08944e13e035)
+ ![Mars_Year](https://github.com/rodneaa/Mars_Data_Challenge/assets/136031276/5f50cc12-50a2-4a6e-bc6e-53f472add224)
 
 
+The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
 Export the DataFrame to a CSV file.
